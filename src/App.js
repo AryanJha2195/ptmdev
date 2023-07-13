@@ -6,6 +6,7 @@ import HeroSection from "./component/HeroSection.jsx";
 import Content from "./component/Content.jsx";
 import Carsol from "./component/carsol.jsx";
 import Privacy from "./component/Privacy.jsx";
+import Schedule from "./component/Schedule.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Content/>
       <Carsol/>
       <Privacy/>
+      <Schedule/>
     </div>
   );
 }
