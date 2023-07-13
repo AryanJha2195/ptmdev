@@ -5,6 +5,7 @@ import NavBarr from "./component/NavBarr.jsx";
 import HeroSection from "./component/HeroSection.jsx";
 import Content from "./component/Content.jsx";
 import Carsol from "./component/carsol.jsx";
+import Privacy from "./component/Privacy.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <HeroSection/>
       <Content/>
       <Carsol/>
+      <Privacy/>
     </div>
   );
 }
