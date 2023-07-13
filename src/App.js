@@ -7,6 +7,7 @@ import Content from "./component/Content.jsx";
 import Carsol from "./component/carsol.jsx";
 import Privacy from "./component/Privacy.jsx";
 import Schedule from "./component/Schedule.jsx";
+import FooterComp from './component/FooterComp';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Carsol/>
       <Privacy/>
       <Schedule/>
+      <FooterComp/>
     </div>
   );
 }
