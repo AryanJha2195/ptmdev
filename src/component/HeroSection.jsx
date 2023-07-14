@@ -7,7 +7,7 @@ import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons';
 const HeroSection = () => {
   return (
     <>
-    <Container className="text-center mt-4 ml-3 p-5">
+    <Container className="text-center mt-5 ml-3 p-5">
         <h1 style={{fontFamily: "cursive", color: "#2C2A50"}}>Free Parent-Teacher Communication App that Just Works</h1>
         <h3 style={{fontFamily: "cursive", color: "#545382"}}>Teach2Parent connects teachers and families with one easy-to-use app for all their communication needs. And - it’s free!</h3>
         <Button variant="warning">Get Started</Button>
